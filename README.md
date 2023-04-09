@@ -30,11 +30,14 @@ Follow the steps below to get started with the Spotify song recommendation algor
 
 
 
+
 SPOTIFY_CLIENT_ID=<Your Spotify API client ID>
    
 SPOTIFY_CLIENT_SECRET=<Your Spotify API client secret>
    
 SPOTIFY_REDIRECT_URI=<Your Spotify API redirect URI>
+
+   
    
 
   * Run the application using node app.js in your terminal.
