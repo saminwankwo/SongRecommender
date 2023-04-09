@@ -1,4 +1,4 @@
-##Spotify Song Recommendation Algorithm
+## Spotify Song Recommendation Algorithm
 
 This GitHub repository contains a Spotify song recommendation algorithm written in JavaScript. The algorithm utilizes the Spotify Web API to fetch song data and make recommendations based on user preferences.
 Features
@@ -11,7 +11,7 @@ The Spotify song recommendation algorithm provides the following features:
     Generates song recommendations based on user preferences using a collaborative filtering approach.
     Displays recommended songs to the user in a user-friendly format.
 
-##Prerequisites
+## Prerequisites
 
 To use this Spotify song recommendation algorithm, you will need the following:
 
@@ -30,9 +30,9 @@ Follow the steps below to get started with the Spotify song recommendation algor
 
 
 
-`<code> SPOTIFY_CLIENT_ID=<Your Spotify API client ID>
+SPOTIFY_CLIENT_ID=<Your Spotify API client ID>
 SPOTIFY_CLIENT_SECRET=<Your Spotify API client secret>
-SPOTIFY_REDIRECT_URI=<Your Spotify API redirect URI> </code>`
+SPOTIFY_REDIRECT_URI=<Your Spotify API redirect URI>
 
     Run the application using node app.js in your terminal.
     Open your web browser and go to http://localhost:3000 to access the Spotify song recommendation algorithm.
